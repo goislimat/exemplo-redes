@@ -9,11 +9,11 @@ Você tem algumas opções para colocar o projeto rodando na sua máquina e ver 
 1. Clique em **clone or download** e faça um download do arquivo em formato .zip
 2. Clone este repositório com https
 ```
-git clone https_url novo_diretorio_onde_clonar
+git clone https://github.com/goislimat/exemplo-redes.git novo_diretorio_onde_clonar
 ```
 3. Clone este repositório com ssh
 ```
-git clone ssh_url novo_diretorio_onde_clonar
+git clone git@github.com:goislimat/exemplo-redes.git novo_diretorio_onde_clonar
 ```
 
 ### Pré Requisitos
